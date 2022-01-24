@@ -1,28 +1,26 @@
-ul li{
+/* our packages section  -------------------
+ -------------------------*/
+ ul li{
     list-style-type: none;
 }
 .card-border{
     border-radius: 30px;
-}
-.card-wedding-plus-button{
-   
-}
-.jjj{
-    background-color: antiquewhite;
-  
 }
 .bg-card{
     background-color: #659bd2;
     padding-top: 20px;
     box-shadow: 0px 20px 20px lightgray;
 }
-.special-class{
+.special-card{
     margin-left: -15px;
 }
 .badge-style{
     margin-left: -50px;
     padding: 8px;
 }
+
+/* banner carousel section  -------------------
+ -------------------------*/
 .carousel-item{
     height: 80vh;
 }
@@ -32,6 +30,11 @@ ul li{
 }
 .carousel-title-3, .carousel-title-2{
     margin-left: 30px;
-    font-weight: bold;
+    font-weight: bolder;
+        
+}
+.carousel-title-1{
+    font-weight: bolder;
     
 }
+
