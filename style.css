@@ -1,3 +1,25 @@
 ul li{
     list-style-type: none;
 }
+.card-border{
+    border-radius: 30px;
+}
+.card-wedding-plus-button{
+   
+}
+.jjj{
+    background-color: antiquewhite;
+  
+}
+.bg-card{
+    background-color: #659bd2;
+    padding-top: 20px;
+    box-shadow: 0px 20px 20px lightgray;
+}
+.special-class{
+    margin-left: -15px;
+}
+.badge-style{
+    margin-left: -50px;
+    padding: 8px;
+}
