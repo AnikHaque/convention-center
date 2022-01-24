@@ -31,6 +31,10 @@
 
 /* banner carousel section  -------------------
  -------------------------*/
+ .banner-button{
+     color: white;
+     text-decoration: none;
+ }
 .carousel-item{
     height: 80vh;
 }
