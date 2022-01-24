@@ -6,7 +6,9 @@
 <li>Banner Section</li>
 <li>Moment Section</li>
 <li>Packages Section</li>
+<li>Happy Clients Section Section</li>
 <li>Faq Section</li>
 <li>Booking Section</li>
+<li>Subscribe Section</li>
 <li>Footer Section</li>
 </ul>

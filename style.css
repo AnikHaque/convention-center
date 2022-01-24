@@ -48,6 +48,12 @@
     
 }
 
+/* clients section  -------------------
+ -------------------------*/
+ .clients{
+     margin-top: 200px;
+ }
+
 /* frequently asked question section  -------------------
  -------------------------*/
 .faq{
@@ -58,6 +64,12 @@
  -------------------------*/
 .booking-convention-center{
     margin-top:200px; 
+}
+
+/* subscribe section  -------------------
+ -------------------------*/
+.subscribe{
+    margin-top:170px;  
 }
 
 /* footer section  -------------------
